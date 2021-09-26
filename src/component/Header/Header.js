@@ -5,7 +5,7 @@ const Header = () => {
         <div className="header">
             <div className="header-main">
 
-                <h2>Make a programmer team</h2>
+                <h1> Hire world class Developers</h1>
                 <p>Our programmer team is always at your service</p>
                 <h2>Team rental budget : 10 million</h2>
             </div>

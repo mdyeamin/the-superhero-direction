@@ -1,9 +1,10 @@
 
 .header-main{
-    width: 85%;
+   
     margin: auto;
-    background: lightgray;
+    /* background: lightgray; */
     padding: 20px 50px;
     text-align: center;
+    margin-bottom: 50px;
 
 }

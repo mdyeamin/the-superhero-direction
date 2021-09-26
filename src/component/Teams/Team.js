@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import TeamCart from '../TeamCart/TeamCart';
+import TeamViewer from '../TeamViewer/TeamViewer';
 import './Team.css'
 const Team = () => {
     const [teams, setTeams] = useState([])
@@ -12,7 +13,7 @@ const Team = () => {
             .then(data => setTeams(data))
     }, [])
     const handleAddToTeam = (eventTeam) => {
-        console.log(team.name)
+        // console.log(team.name)
         const newTeam = [...team, eventTeam]
         seTEeam(newTeam)
     }
@@ -26,12 +27,20 @@ const Team = () => {
                         key={team.key}
                         team={team}
                         handleAddToTeam={handleAddToTeam}
+
                     >
                     </TeamCart>)
                 }
             </div>
             <div className="team-count">
                 <Cart team={team}></Cart>
+                {
+                    team.map(teamSet => <TeamViewer teamSet={teamSet}
+                        key={teamSet.key}
+
+                    ></TeamViewer>)
+                }
+
             </div>
         </div >
     );

@@ -5,7 +5,7 @@ import Team from './component/Teams/Team';
 
 function App() {
   return (
-    <div className="">
+    <div className="full-width">
       <Header />
       <Team />
     </div>

@@ -1,11 +1,11 @@
 .team-container{
 display: grid;
-grid-template-columns: 3.5fr 1fr;
+grid-template-columns: 3fr 1fr;
 }
 
-.team-cart, .team-count{
+/* .team-cart, .team-count{
 border:2px solid red;
-}
+} */
 
 .team-cart{
     display: grid;

@@ -1,9 +1,15 @@
 import React from 'react';
+import './TeamViewer.css'
+const TeamViewer = (props) => {
+    console.log(props.teamSet);
 
-const TeamViewer = () => {
+    const { name, img, salary } = props.teamSet
+
     return (
-        <div>
-
+        <div className='teamViewerArea'>
+            <h3>{name}</h3>
+            <img className="viwerImg" src={img} alt="" />
+            <p>${salary}</p>
         </div>
     );
 };

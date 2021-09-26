@@ -1,4 +1,5 @@
 import React from 'react';
+
 import './Cart.css'
 const Cart = (props) => {
     const { team } = props;
@@ -8,10 +9,10 @@ const Cart = (props) => {
     }
 
     return (
-        <div>
+        <div className="cart">
             <h3> Developer Added : {props.team.length}</h3>
             <h3>Total Cost : ${total} </h3>
-            <h3>{ }</h3>
+
 
         </div>
     );

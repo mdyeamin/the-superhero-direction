@@ -108,5 +108,35 @@
       "salary": 8500,
       "email": "mdyeamin@gmail.com",
       "key": "D5DJT70Y"
+    },
+    {
+      "name": "Joseph Egress",
+      "role": "Front end Dev",
+      "age": 54,
+      "img":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "country": "titan",
+      "salary": 7500,
+      "email": "josephegress@gmail.com",
+      "key": "D5DJT70G"
+    },
+    {
+      "name": "Frank Joseph Egress",
+      "role": "Front end Dev",
+      "age": 54,
+      "img":"https://image.shutterstock.com/image-photo/close-portrait-smiling-handsome-man-260nw-1011569245.jpg",
+      "country": "titan",
+      "salary": 7500,
+      "email": "josephegress@gmail.com",
+      "key": "D5DJT75G"
+    },
+    {
+      "name": "Ramus Egress",
+      "role": "Front end Dev",
+      "age": 54,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWI8nZsVNfKFn-JciGmab5XSsvsu_iuJK2Yw&usqp=CAU",
+      "country": "titan",
+      "salary": 7500,
+      "email": "josephegress@gmail.com",
+      "key": "D5DJ370G"
     }
   ]
