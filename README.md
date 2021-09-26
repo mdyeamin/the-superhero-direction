@@ -1,5 +1,5 @@
 # programming team assignment website
-This project was bootstrapped with [repo link](https://github.com/ProgrammingHeroWC4/the-superhero-direction-mdyeamin).
+This project was bootstrapped with [programming team](https://github.com/ProgrammingHeroWC4/the-superhero-direction-mdyeamin).
 
 ## Available Scripts
 
