@@ -1,7 +1,6 @@
 import React from 'react';
 import './TeamViewer.css'
 const TeamViewer = (props) => {
-    console.log(props.teamSet);
 
     const { name, img, salary } = props.teamSet
 

@@ -7,7 +7,8 @@
       "country": "Japan",
       "salary": 1000,
       "email": "kierankneal@gmail.com",
-      "key": "D0FRT54C"
+      "key": "D0FRT54C",
+      "gender":"male"
     },
     {
       "name": "Mark Quiggin",
@@ -17,7 +18,8 @@
       "country": "USA",
       "salary": 1020,
       "email": "markquiggin.com",
-      "key": "D0FTT54A"
+      "key": "D0FTT54A",
+      "gender":"male"
     },
     {
       "name": "Laurys Cowper",
@@ -27,7 +29,8 @@
       "country": "bangladesh",
       "salary": 3200,
       "email": "lauryscowper@gmail.com",
-      "key": "D2FET56S"
+      "key": "D2FET56S",
+      "gender":"male"
     },
     {
       "name": "Ean Kewley",
@@ -37,7 +40,8 @@
       "country": "dubai",
       "salary": 1500,
       "email": "eankewley@gmail.com",
-      "key": "D2FST09V"
+      "key": "D2FST09V",
+      "gender":"male"
     },
     {
       "name": "Carbry Nelson",
@@ -47,7 +51,8 @@
       "country": "Japan",
       "salary": 4400,
       "email": "arbrynelson@gmail.com",
-      "key": "D2XZT09V"
+      "key": "D2XZT09V",
+      "gender":"male"
     },
     {
       "name": "Geffry Gawe",
@@ -57,7 +62,8 @@
       "country": "Japan",
       "salary": 4500,
       "email": "geffrygawe@gmail.com",
-      "key": "D2BGT99V"
+      "key": "D2BGT99V",
+      "gender":"male"
     },
     {
       "name": "Conal Kegg",
@@ -67,7 +73,8 @@
       "country": "Japan",
       "salary": 4000,
       "email": "conalkegg@gmail.com",
-      "key": "D2XZT00C"
+      "key": "D2XZT00C",
+      "gender":"male"
     },
     {
       "name": "Thorfin Hogg",
@@ -77,7 +84,8 @@
       "country": "Japan",
       "salary": 4500,
       "email": "thorfinhogg@gmail.com",
-      "key": "D2XZT12L"
+      "key": "D2XZT12L",
+      "gender":"male"
     },
     {
       "name": "Niall Huchen",
@@ -87,7 +95,8 @@
       "country": "Japan",
       "salary": 4500,
       "email": "niallhuchen@gmail.com",
-      "key": "D5DJT12L"
+      "key": "D5DJT12L",
+      "gender":"male"
     },
     {
       "name": "Parick Alcar",
@@ -97,7 +106,8 @@
       "country": "Japan",
       "salary": 4500,
       "email": "parickalcar@gmail.com",
-      "key": "D5DJT72L"
+      "key": "D5DJT72L",
+      "gender":"male"
     },
     {
       "name": "Md Yeamin",
@@ -107,7 +117,8 @@
       "country": "Canada",
       "salary": 8500,
       "email": "mdyeamin@gmail.com",
-      "key": "D5DJT70Y"
+      "key": "D5DJT70Y",
+      "gender":"male"
     },
     {
       "name": "Joseph Egress",
@@ -117,7 +128,8 @@
       "country": "titan",
       "salary": 7500,
       "email": "josephegress@gmail.com",
-      "key": "D5DJT70G"
+      "key": "D5DJT70G",
+      "gender":"male"
     },
     {
       "name": "Frank Joseph Egress",
@@ -127,7 +139,8 @@
       "country": "titan",
       "salary": 7500,
       "email": "josephegress@gmail.com",
-      "key": "D5DJT75G"
+      "key": "D5DJT75G",
+      "gender":"male"
     },
     {
       "name": "Ramus Egress",
@@ -137,6 +150,7 @@
       "country": "titan",
       "salary": 7500,
       "email": "josephegress@gmail.com",
-      "key": "D5DJ370G"
+      "key": "D5DJ370G",
+      "gender":"male"
     }
   ]
