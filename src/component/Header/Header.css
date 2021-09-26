@@ -1,10 +1,41 @@
 
 .header-main{
-   
-    margin: auto;
-    /* background: lightgray; */
+   display: flex;align-items: center ;
+   justify-content: space-around;
     padding: 20px 50px;
-    text-align: center;
     margin-bottom: 50px;
+    color:rgb(128, 128, 128);
+    
 
+}
+.sosial{
+    border-left: 1px solid rgb(128, 128, 128);
+  padding-left: 20px;
+}
+.sosial a{
+    text-decoration: none;
+    color:rgb(128, 128, 128);
+}
+.sosial a:hover{
+    text-decoration: underline;
+}
+.search-input{
+    padding: 8px 6px;
+}
+.search-btn{
+    padding: 10px 16px;
+    margin-left: 10px;
+    background: gray;
+    border:0;
+    border-radius:5px ;
+
+}
+.header-main h1{
+    font-size: 34px;
+}
+.header-main p{
+    font-size: 24px;
+}
+.header-main h2{
+    font-size: 30px;
 }
