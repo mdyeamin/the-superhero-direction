@@ -2,9 +2,9 @@
 This project was bootstrapped with [programming team](https://github.com/ProgrammingHeroWC4/the-superhero-direction-mdyeamin).
 
 ## Available Scripts
-👉 this is a programming team website
-👉 Through this website, you can hire of the developers
-👉 And all of our developers who are there have good skills at work
+# 👉 this is a programming team website
+# 👉 Through this website, you can hire of the developers
+# 👉 And all of our developers who are there have good skills at work
 In the project directory, you can run:
 
 ### `npm start`
