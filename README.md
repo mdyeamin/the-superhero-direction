@@ -1,5 +1,5 @@
-# programming team
-This project was bootstrapped with [Create React App](https://github.com/ProgrammingHeroWC4/the-superhero-direction-mdyeamin).
+# programming team assignment website
+This project was bootstrapped with [repo link](https://github.com/ProgrammingHeroWC4/the-superhero-direction-mdyeamin).
 
 ## Available Scripts
 
